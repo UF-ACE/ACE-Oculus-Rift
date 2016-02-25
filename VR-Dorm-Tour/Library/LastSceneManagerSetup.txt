@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/VR Dorm Tour.unity
-  isLoaded: 1
-  isActive: 1
