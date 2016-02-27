@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: d5dfd65eb3d30cd458b45abeecb5915b
+timeCreated: 1454732912
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cypress_Double_Main_1
+    100004: mesh_simple_rotated_1
+    100006: mesh_simple_rotated_2
+    100008: mesh_simple_rotated_3
+    100010: Cypress_Double_Main_2
+    100012: Cypress_Double_Main_3
+    100014: Cypress_Double_Main_4
+    100016: 0_height_test
+    100018: Cypress_Double_Bathroom
+    100020: Cypress_Double_Bathroom_1
+    100022: Cypress_Double_Main
+    100024: Cypress_Double_Bathroom_Bounds
+    100026: Cypress_Double_Bathroom_to_Cypress_Double_Main_Transport
+    100028: Cypress_Double_Bathroom_Transports
+    100030: Cypress_Double_Main_Bounds
+    100032: Cypress_Double_Main_to_Cypress_Double_Bathroom_Transport
+    100034: Cypress_Double_Main_to_Hub_Transport
+    100036: Cypress_Double_Main_Transports
+    400000: //RootNode
+    400002: Cypress_Double_Main_1
+    400004: mesh_simple_rotated_1
+    400006: mesh_simple_rotated_2
+    400008: mesh_simple_rotated_3
+    400010: Cypress_Double_Main_2
+    400012: Cypress_Double_Main_3
+    400014: Cypress_Double_Main_4
+    400016: 0_height_test
+    400018: Cypress_Double_Bathroom
+    400020: Cypress_Double_Bathroom_1
+    400022: Cypress_Double_Main
+    400024: Cypress_Double_Bathroom_Bounds
+    400026: Cypress_Double_Bathroom_to_Cypress_Double_Main_Transport
+    400028: Cypress_Double_Bathroom_Transports
+    400030: Cypress_Double_Main_Bounds
+    400032: Cypress_Double_Main_to_Cypress_Double_Bathroom_Transport
+    400034: Cypress_Double_Main_to_Hub_Transport
+    400036: Cypress_Double_Main_Transports
+    2300000: Cypress_Double_Main_1
+    2300002: mesh_simple_rotated_1
+    2300004: mesh_simple_rotated_2
+    2300006: mesh_simple_rotated_3
+    2300008: Cypress_Double_Main_2
+    2300010: Cypress_Double_Main_3
+    2300012: Cypress_Double_Main_4
+    2300014: 0_height_test
+    2300016: Cypress_Double_Bathroom_1
+    2300018: Cypress_Double_Bathroom_Bounds
+    2300020: Cypress_Double_Bathroom_to_Cypress_Double_Main_Transport
+    2300022: Cypress_Double_Main_Bounds
+    2300024: Cypress_Double_Main_to_Cypress_Double_Bathroom_Transport
+    2300026: Cypress_Double_Main_to_Hub_Transport
+    3300000: Cypress_Double_Main_1
+    3300002: mesh_simple_rotated_1
+    3300004: mesh_simple_rotated_2
+    3300006: mesh_simple_rotated_3
+    3300008: Cypress_Double_Main_2
+    3300010: Cypress_Double_Main_3
+    3300012: Cypress_Double_Main_4
+    3300014: 0_height_test
+    3300016: Cypress_Double_Bathroom_1
+    3300018: Cypress_Double_Bathroom_Bounds
+    3300020: Cypress_Double_Bathroom_to_Cypress_Double_Main_Transport
+    3300022: Cypress_Double_Main_Bounds
+    3300024: Cypress_Double_Main_to_Cypress_Double_Bathroom_Transport
+    3300026: Cypress_Double_Main_to_Hub_Transport
+    4300000: Cypress_Double_Main_1
+    4300002: mesh_simple_rotated_3
+    4300004: mesh_simple_rotated_1
+    4300006: mesh_simple_rotated_2
+    4300008: Cypress_Double_Main_4
+    4300010: Cypress_Double_Main_2
+    4300012: Cypress_Double_Main_3
+    4300014: 0_height_test
+    4300016: Cypress_Double_Bathroom_1
+    4300018: Cypress_Double_Bathroom_Bounds
+    4300020: Cypress_Double_Bathroom_to_Cypress_Double_Main_Transport
+    4300022: Cypress_Double_Main_Bounds
+    4300024: Cypress_Double_Main_to_Cypress_Double_Bathroom_Transport
+    4300026: Cypress_Double_Main_to_Hub_Transport
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
